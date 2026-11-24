@@ -1,0 +1,6 @@
+{
+  "name": "MazeQuest Mini",
+  "description": "A top-down puzzle adventure game where you explore a maze, solve switch and key puzzles, avoid traps, collect crystals, and reach the exit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
